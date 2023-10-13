@@ -9,7 +9,7 @@
     "children": [],
     "name": "Default",
   },
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
@@ -26,6 +26,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notes","folderPath":"folders/Notes.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"tile Sprites","folderPath":"folders/Sprites/tile Sprites.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -34,6 +35,14 @@
     "IDEVersion": "2023.8.2.108",
   },
   "resources": [
+    {"id":{"name":"spr_tile_basic","path":"sprites/spr_tile_basic/spr_tile_basic.yy",},},
+    {"id":{"name":"t_tol","path":"tilesets/t_tol/t_tol.yy",},},
+    {"id":{"name":"t_map","path":"tilesets/t_map/t_map.yy",},},
+    {"id":{"name":"spr_temp_player","path":"sprites/spr_temp_player/spr_temp_player.yy",},},
+    {"id":{"name":"obj_temp_control","path":"objects/obj_temp_control/obj_temp_control.yy",},},
+    {"id":{"name":"sc_auto_tile","path":"scripts/sc_auto_tile/sc_auto_tile.yy",},},
+    {"id":{"name":"spr_tile_tol","path":"sprites/spr_tile_tol/spr_tile_tol.yy",},},
+    {"id":{"name":"obj_temp_player","path":"objects/obj_temp_player/obj_temp_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

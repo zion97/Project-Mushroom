@@ -15,6 +15,11 @@
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
+    {"name":"tile Sprites","order":1,"path":"folders/Sprites/tile Sprites.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"t_tol","order":1,"path":"tilesets/t_tol/t_tol.yy",},
+    {"name":"obj_temp_control","order":1,"path":"objects/obj_temp_control/obj_temp_control.yy",},
+    {"name":"spr_tile_tol","order":1,"path":"sprites/spr_tile_tol/spr_tile_tol.yy",},
+  ],
 }
